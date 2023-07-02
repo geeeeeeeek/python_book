@@ -1,0 +1,9 @@
+/bookproject/upload/cover/
+/bookproject/myapp/migrations
+/bookproject/myapp/views/__pycache__/
+/bookproject/.idea
+/web/.idea
+/web/dist
+/web/node_modules
+/bookproject/.idea/
+/.idea/
