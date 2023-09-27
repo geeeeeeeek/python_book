@@ -39,13 +39,11 @@
 ```
 CREATE DATABASE IF NOT EXISTS book DEFAULT CHARSET utf8 COLLATE utf8_general_ci
 ```
-(4) 迁移数据。在bookproject目录下依次执行如下命令：
+(4) 恢复SQL数据。在cmd命令行执行如下命令：
 
 ```
-python manage.py makemigrations
-python manage.py migrate
-python manage.py makemigrations myapp
-python manage.py migrate myapp
+mysql> use book;
+mysql> source xxx/xxx.sql
 ```
 
 (5) 启动django服务。在bookproject目录下执行：
