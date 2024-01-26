@@ -92,6 +92,6 @@ npm run serve
 
 ### 打赏作者
 
-![](https://raw.githubusercontent.com/geeeeeeeek/book/master/bookproject/upload/img/Wechat.jpeg)
+![](https://raw.githubusercontent.com/geeeeeeeek/python_book/master/bookproject/upload/img/weixin-pay.jpg)
 
 
