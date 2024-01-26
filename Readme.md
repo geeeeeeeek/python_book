@@ -92,6 +92,6 @@ npm run serve
 
 ### 打赏作者
 
-![](https://raw.githubusercontent.com/geeeeeeeek/python_book/master/bookproject/upload/img/weixin-pay.jpg)
+<img src="https://raw.githubusercontent.com/geeeeeeeek/python_book/master/bookproject/upload/img/weixin-pay.jpg" width=400/>
 
 
