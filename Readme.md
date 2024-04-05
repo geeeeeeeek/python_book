@@ -80,11 +80,7 @@ npm run serve
 ![后台借阅管理](https://raw.githubusercontent.com/geeeeeeeek/book/master/bookproject/upload/img/c.png)
 
 
-### 待完善功能
 
-- 邮箱推送功能
-- 手机号绑定功能
-- 粉丝关注功能
 
 ### 付费咨询
 
