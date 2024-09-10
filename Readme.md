@@ -80,6 +80,9 @@ npm run serve
 ![后台借阅管理](https://raw.githubusercontent.com/geeeeeeeek/book/master/bookproject/upload/img/c.png)
 
 
+### 参考论文
+
+[点击查看](doc/python_book.docx)
 
 
 ### 付费咨询
