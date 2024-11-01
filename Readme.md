@@ -53,7 +53,7 @@ python manage.py runserver
 
 #### 前端运行步骤
 
-(1) 安装node 16.14
+(1) 安装node 16.14或以上
 
 (2) 进入web目录下，安装依赖，执行:
 ```
