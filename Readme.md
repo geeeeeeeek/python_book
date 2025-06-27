@@ -29,6 +29,26 @@
 
 ### 部署运行
 
+
+#### 软件下载
+
+Python下载地址:
+
+https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe
+
+数据库下载地址:
+
+https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-5.7.44.0.msi
+
+Node下载地址:
+
+https://nodejs.org/dist/v18.20.2/node-v18.20.2-x64.msi
+
+pycharm下载地址:
+
+https://www.jetbrains.com.cn/pycharm/download/other.html
+
+
 #### 后端运行步骤
 
 (1) 安装python 3.8
