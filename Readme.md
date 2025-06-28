@@ -27,26 +27,25 @@
 - bookproject目录是后端代码
 - web目录是前端代码
 
+### 视频讲解
+
+[https://www.youtube.com/watch?v=jcbJdZInqrI](https://www.youtube.com/watch?v=jcbJdZInqrI)
+
+
 ### 部署运行
 
 
 #### 软件下载
 
-Python下载地址:
+[Python下载地址](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe)
 
-https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe
+[数据库下载地址](https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-5.7.44.0.msi)
 
-数据库下载地址:
+[Node下载地址](https://nodejs.org/dist/v18.20.2/node-v18.20.2-x64.msi)
 
-https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-5.7.44.0.msi
+[pycharm下载地址](https://www.jetbrains.com.cn/pycharm/download/other.html)
 
-Node下载地址:
 
-https://nodejs.org/dist/v18.20.2/node-v18.20.2-x64.msi
-
-pycharm下载地址:
-
-https://www.jetbrains.com.cn/pycharm/download/other.html
 
 
 #### 后端运行步骤
